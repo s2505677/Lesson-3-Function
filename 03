@@ -1,0 +1,5 @@
+03-Functions
+
+func doSomething (){
+        print("Do Something") -  most basic way to write a function
+brakets come in pairs () {} 
